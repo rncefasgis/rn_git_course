@@ -9,8 +9,10 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
+import os, sys
+
 def main():
-    pass
+    print sys.argv
 
 if __name__ == '__main__':
     main()
